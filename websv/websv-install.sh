@@ -13,7 +13,7 @@ rm -rf /tmp/git-tmp
 mkdir -p /tmp/git-tmp
 cd /tmp/git-tmp
 
-git clone https://github.com/ymdhnk/test-web.git
+git clone https://github.com/ysd123456/test-web.git
 mkdir -p /var/www/html
 install -m 644 /tmp/git-tmp/test-web/web-app/index.php /var/www/html/
 
